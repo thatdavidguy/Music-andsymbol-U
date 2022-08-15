@@ -9,5 +9,5 @@ Our final analysis of the data concluded that about 5% of level of extraversion/
 although further research is needed.
 
 Credits:
-Jayden - 
-Andrea - 
+Jayden - https://github.com/Joydurn
+Andrea - https://github.com/ac-cat
